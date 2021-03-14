@@ -85,12 +85,12 @@ If you are using ArduninoEspressif32 ETH library below are the values that must 
 
 ```c
 ETH.begin(
-        (uint8_t) es.eth_address,           # 0
-        (int)     es.eth_power,             # 5
-        (int)     es.eth_mdc,               # 23
-        (int)     es.eth_mdio,              # 18
-        (eth_phy_type_t)   es.eth_type,     # ETH_PHY_LAN8720
-        (eth_clock_mode_t) es.eth_clk_mode  # ETH_CLOCK_GPIO17_OUT
+        (uint8_t)      phy_addr,       # 0
+        (int)             power,       # 5
+        (int)               mdc,       # 23
+        (int)              mdio,       # 18
+        (eth_phy_type_t)   type,       # ETH_PHY_LAN8720
+        (eth_clock_mode_t) clock_mode  # ETH_CLOCK_GPIO17_OUT
         );
 ```
 ### Board Pictures
