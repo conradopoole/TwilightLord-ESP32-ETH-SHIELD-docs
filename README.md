@@ -4,10 +4,15 @@ Living in a condo building with heavily congested WiFi channels was causing issu
 
 Big shout-out to the developers of [WLED][1] and [LedFX][2] which sparked my interest in the world of addressable LEDs and audio reactive. Please consider donating to their projects if you are using them.
 
+And if you are looking for a great Shield for your WLED ESP based projects, I highly recommend looking at the [WLED Wemos Shield][4] by [Serg74][3]. You can order his PCBs and assemble it by yourself or buy one from his [Tindie store][5]
+
 [1]:https://github.com/Aircoookie/WLED 
 [2]:https://github.com/LedFx/LedFx
+[3]:https://github.com/srg74
+[4]:https://github.com/srg74/WLED-wemos-shield
+[5]:https://www.tindie.com/stores/serg74/
 
-[<img src="https://raw.githubusercontent.com/Aircoookie/WLED/master/images/wled_logo_akemi.png" height="30">][1][<img src="https://camo.githubusercontent.com/40ff4643445fb91a250438a7d3460ce9e225b1638a43694bb0d42f02d9e3d260/68747470733a2f2f692e696d6775722e636f6d2f534657666846722e706e67" height="30"><br/>][2]
+[<img src="https://github.com/srg74/WLED-wemos-shield/raw/master/resources/Images/wiki/board-powered.jpg" width="250"><br/>][4][<img src="https://raw.githubusercontent.com/Aircoookie/WLED/master/images/wled_logo_akemi.png" height="30">][1][<img src="https://camo.githubusercontent.com/40ff4643445fb91a250438a7d3460ce9e225b1638a43694bb0d42f02d9e3d260/68747470733a2f2f692e696d6775722e636f6d2f534657666846722e706e67" height="30"><br/>][2]
 
 
 ### What is it?
